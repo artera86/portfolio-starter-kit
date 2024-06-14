@@ -3,7 +3,7 @@ import { BlogPosts } from 'app/components/posts'
 export default function Page() {
   return (
     <section>
-      <div className="txt">
+      <div>
         My Portfolio
       </div>
       <p className="mb-4">
